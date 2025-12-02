@@ -1,0 +1,55 @@
+length,gc,entropy,obs_gc,obs_entropy,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,error_message,AllocatedMemory_Bytes,ComparisonsPerChar,MaskTable_Bytes,Matches,PatternLength,ReverseComplement_Bytes,TotalComparisons
+64,0.200000,0.300000,0.046875,1.254120,106.0,6228.27,6213.03,us,7047950.0,,,,,2112.0,2.0,2048.0,0.0,64.0,64.0,9283300.0
+64,0.200000,1.100000,0.046875,1.268956,97.0,6522.89,6485.49,us,7378330.0,,,,,2112.0,2.0,2048.0,0.0,64.0,64.0,9283300.0
+64,0.200000,1.900000,0.312500,1.886960,106.0,7194.86,7187.45,us,6092450.0,,,,,2112.0,2.0,2048.0,0.0,64.0,64.0,9283300.0
+64,0.500000,0.300000,0.531250,1.799483,105.0,6524.3,6523.56,us,6776400.0,,,,,2112.0,2.0,2048.0,0.0,64.0,64.0,9283300.0
+64,0.500000,1.100000,0.437500,1.796125,114.0,6005.74,6005.09,us,6780290.0,,,,,2112.0,2.0,2048.0,0.0,64.0,64.0,9283300.0
+64,0.500000,1.900000,0.468750,1.985835,101.0,5701.93,5701.23,us,8060880.0,,,,,2112.0,2.0,2048.0,0.0,64.0,64.0,9283300.0
+64,0.800000,0.300000,0.937500,1.313437,117.0,5479.48,5478.54,us,7241380.0,,,,,2112.0,2.0,2048.0,0.0,64.0,64.0,9283300.0
+64,0.800000,1.100000,0.937500,1.318721,119.0,5615.54,5615.29,us,6946300.0,,,,,2112.0,2.0,2048.0,0.0,64.0,64.0,9283300.0
+64,0.800000,1.900000,0.765625,1.782737,117.0,5326.79,5326.15,us,7448580.0,,,,,2112.0,2.0,2048.0,0.0,64.0,64.0,9283300.0
+128,0.200000,0.300000,0.117188,1.466514,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+128,0.200000,1.100000,0.117188,1.484135,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+128,0.200000,1.900000,0.234375,1.778752,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+128,0.500000,0.300000,0.570312,1.901389,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+128,0.500000,1.100000,0.453125,1.884144,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+128,0.500000,1.900000,0.531250,1.992467,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+128,0.800000,0.300000,0.898438,1.467590,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+128,0.800000,1.100000,0.898438,1.428331,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+128,0.800000,1.900000,0.781250,1.756171,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+256,0.200000,0.300000,0.128906,1.525262,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+256,0.200000,1.100000,0.113281,1.509625,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+256,0.200000,1.900000,0.242188,1.798427,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+256,0.500000,0.300000,0.492188,1.965017,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+256,0.500000,1.100000,0.503906,1.954405,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+256,0.500000,1.900000,0.460938,1.992467,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+256,0.800000,0.300000,0.863281,1.571812,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+256,0.800000,1.100000,0.875000,1.528614,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+256,0.800000,1.900000,0.738281,1.828935,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+512,0.200000,0.300000,0.152344,1.611668,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+512,0.200000,1.100000,0.148438,1.603163,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+512,0.200000,1.900000,0.232422,1.781338,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+512,0.500000,0.300000,0.572266,1.976095,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+512,0.500000,1.100000,0.562500,1.983277,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+512,0.500000,1.900000,0.511719,1.998626,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+512,0.800000,0.300000,0.857422,1.590210,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+512,0.800000,1.100000,0.853516,1.599118,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+512,0.800000,1.900000,0.783203,1.753650,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+1000,0.200000,0.300000,0.164000,1.640311,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+1000,0.200000,1.100000,0.164000,1.638732,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+1000,0.200000,1.900000,0.221000,1.758635,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+1000,0.500000,0.300000,0.516000,1.985681,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+1000,0.500000,1.100000,0.565000,1.985172,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+1000,0.500000,1.900000,0.489000,1.997610,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+1000,0.800000,0.300000,0.844000,1.622990,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+1000,0.800000,1.100000,0.836000,1.641368,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+1000,0.800000,1.900000,0.781000,1.756623,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+2000,0.200000,0.300000,0.178500,1.674733,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+2000,0.200000,1.100000,0.177500,1.673787,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+2000,0.200000,1.900000,0.221000,1.761426,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+2000,0.500000,0.300000,0.479000,1.993994,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+2000,0.500000,1.100000,0.470500,1.994714,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+2000,0.500000,1.900000,0.517500,1.998790,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+2000,0.800000,0.300000,0.826000,1.666735,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+2000,0.800000,1.100000,0.830500,1.655556,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
+2000,0.800000,1.900000,0.782500,1.755305,,,,,,,,True,Pattern too long for Bit-Parallel (>64),,,,,,,
